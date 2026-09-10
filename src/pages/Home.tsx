@@ -47,8 +47,8 @@ export default function Home() {
       <main>
         <p className="eyebrow">FOUNDATION TRACK</p>
         <h1>
-          Isah Muhammad <br />
-          2024/1/92402CM <br />
+          Dennis Utighonom Dogonyaro <br />
+          2024/1/784123CM <br />
           Telecommunications Engineering
         </h1>
         <p className="lede">Save a note, refresh the page, then test the same experience with the network turned off.</p>
